@@ -6,7 +6,7 @@ default_font = font.Font(None, 80)
 
 width = 600
 height = 500
-test = 0
+test = 10
 window = display.set_mode((width, height))
 background_color = (50, 200, 90)
 
